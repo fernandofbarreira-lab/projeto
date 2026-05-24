@@ -3,7 +3,7 @@ Aqui está uma sugestão de `README.md` bem direto, moderno e bem-humorado, perf
 ---
 
 ```markdown
-# 🏅 Atletas do Brasil (Edição Tricolor)
+# 🏅 Atletas do Brasil (Edição Tricolor) - Imersão Dev Alura Gemini
 
 Sabe quando você quer lembrar o nome daquele atleta incrível ou descobrir mais sobre um esporte, mas bate aquela preguiça de jogar no Google e rolar por páginas e páginas? Pois é, seus problemas acabaram! 
 
